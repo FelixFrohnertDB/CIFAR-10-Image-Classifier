@@ -12,4 +12,7 @@ The main steps of this project include:
 2. Designing and building a neural network.
 3. Training the neural network on the training set.
 4. Evaluating the network's performance on the test set.
+![](steps.png?raw=true "")
 
+### Example of CIFAR-10 Images:
+![Example of CIFAR-10 Images](cf.png?raw=true "")
